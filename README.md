@@ -24,9 +24,6 @@ Hago apps de escritorio, web y juegos. Trabajo con casi todo, según lo que pida
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=martindevexe&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martindevexe&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
 <img src="https://streak-stats.demolab.com?user=martindevexe&theme=tokyonight&hide_border=true" />
 
 </div>
